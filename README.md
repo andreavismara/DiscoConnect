@@ -38,19 +38,19 @@ Obiettivi chiave dell'app "Disco Connect" e come intende soddisfare le esigenze 
 Una panoramica delle funzionalità principali dell'app, tra cui la visualizzazione degli eventi, la prenotazione dei tavoli VIP, la gestione del profilo utente e altre.
 
 #### Visualizzazione Eventi
- • Attori coinvolti: Utente
+ • Attori coinvolti: Utente<br>
  • Descrizione: Gli utenti possono visualizzare gli eventi in corso e futuri nei locali notturni, filtrare gli eventi per criteri come data, genere musicale, posizione geografica, ecc., e visualizzare i dettagli degli eventi.
 
 #### Prenotazione Tavoli VIP
- • Attori coinvolti: Utente, Nightclub
+ • Attori coinvolti: Utente, Nightclub<br>
  • Descrizione: Gli utenti possono prenotare tavoli VIP in vari locali notturni, selezionando opzioni come data, orario, numero di persone, e procedendo con il pagamento sicuro per la prenotazione.
 
 #### Gestione Profilo Utente
- • Attori coinvolti: Utente
+ • Attori coinvolti: Utente<br>
  • Descrizione: Gli utenti possono creare e gestire il proprio profilo utente, inclusi dettagli personali, preferenze musicali, località preferita, e visualizzare lo storico delle prenotazioni e dei premi vinti.
 
 #### Scoperta Discoteche
- • Attori coinvolti: Utente
+ • Attori coinvolti: Utente<br>
  • Descrizione: Gli utenti possono cercare e visualizzare le discoteche più popolari, leggere recensioni e valutazioni degli utenti e ricevere raccomandazioni personalizzate in base alle loro preferenze musicali e località.
 
 #### Partecipazione a Giochi
@@ -58,20 +58,23 @@ Una panoramica delle funzionalità principali dell'app, tra cui la visualizzazio
  • Descrizione: Gli utenti possono partecipare a giochi o attività all'interno dell'app per avere la possibilità di vincere premi consumabili. Possono visualizzare i premi disponibili e il loro storico dei premi vinti e utilizzati.
 
 #### Amministrazione Locale Notturno
- • Attori coinvolti: Promoter, Nightclub
+ • Attori coinvolti: Promoter, Nightclub<br>
  • Descrizione: I promoter e i locali notturni possono gestire le informazioni sui propri eventi, tavoli VIP, e altre attività legate all'app. Possono anche gestire i contratti e le collaborazioni con Disco Connect.
 
 #### Amministrazione Eventi
- • Attori coinvolti: Nightclub
+ • Attori coinvolti: Nightclub<br>
  • Descrizione: I locali notturni possono aggiungere, modificare o eliminare eventi dal sistema, specificando dettagli come orari, artisti, e informazioni sul luogo.
 
 #### Amministrazione Tavoli VIP
- • Attori coinvolti: Nightclub
+ • Attori coinvolti: Nightclub<br>
  • Descrizione: I locali notturni possono gestire la disponibilità e le prenotazioni dei tavoli VIP, confermare prenotazioni, e definire le opzioni di prenotazione.
 
 #### Amministrazione Premi Consumabili
- • Attori coinvolti: Nightclub
+ • Attori coinvolti: Nightclub<br>
  • Descrizione: I locali notturni possono gestire i premi consumabili offerti nell'app, specificando premi disponibili, punti necessari per il riscatto, e tenendo traccia del riscatto dei premi.
+
+### Diagramma dei casi d'uso
+![Diagramma](https://yuml.me/diagram/scruffy/usecase/[Utente]-(Visualizzazione%20Eventi),%20[Utente]-(Prenotazione%20Tavoli%20VIP),%20[Utente]-(Gestione%20Profilo%20Utente),%20[Utente]-(Scoperta%20Discoteche),%20[Utente]-(Partecipazione%20a%20Giochi),%20[Promoter]-(Amministrazione%20Locale%20Notturno),%20[Nightclub]-(Amministrazione%20Locale%20Notturno),%20[Nightclub]-(Amministrazione%20Eventi),%20[Nightclub]-(Amministrazione%20Tavoli%20VIP),%20[Nightclub]-(Amministrazione%20Premi%20Consumabili),)
 
 ## Caso d'Uso Non Funzionale: Rispetto delle Norme GDPR
 
