@@ -8,53 +8,88 @@ Analisi del Problema "Disco Connect" è un'app progettata per coloro che amano l
 4. Vinci Premi Consumabili: Partecipazione a giochi o attività per avere la possibilità di vincere premi consumabili. Visualizzazione dei premi disponibili e dei punti necessari per il riscatto. Storico dei premi vinti e utilizzati.
 5. Profilo Utente: Creazione e gestione del profilo utente. Salvataggio delle preferenze personali come genere musicale preferito, località preferita, ecc. Visualizzazione dello storico delle prenotazioni e dei premi vinti. Queste funzionalità formano la base per sviluppare "Disco Connect", offrendo agli utenti un'app completa e coinvolgente per vivere al meglio la vita notturna.
 
+## Indice
 
-Attori:
+1. [Introduzione](#introduzione)
+2. [Descrizione del Problema](#descrizione-del-problema)
+3. [Obiettivi dell'App](#obiettivi-dell-app)
+4. [Funzionalità del Sistema](#funzionalità-del-sistema)
+   - [Visualizzazione Eventi](#visualizzazione-eventi)
+   - [Prenotazione Tavoli VIP](#prenotazione-tavoli-vip)
+   - [Gestione Profilo Utente](#gestione-profilo-utente)
+   - [Scoperta Discoteche](#scoperta-discoteche)
+   - [Partecipazione a Giochi](#partecipazione-a-giochi)
+   - [Amministrazione Locale Notturno](#amministrazione-locale-notturno)
+   - [Amministrazione Eventi](#amministrazione-eventi)
+   - [Amministrazione Tavoli VIP](#amministrazione-tavoli-vip)
+   - [Amministrazione Premi Consumabili](#amministrazione-premi-consumabili)
+5. [Caso d'Uso Non Funzionale: Rispetto delle Norme GDPR](#caso-duso-non-funzionale-rispetto-delle-norme-gdpr)
 
-Utente
-Promoter
-Nightclub (Locale notturno)
-Casi d'Uso:
+## Introduzione
+In questa documentazione, verrà descritta l'app "Disco Connect," un'applicazione progettata per gli amanti della vita notturna. L'app offre una serie di funzionalità per gli utenti e i locali notturni.
 
-1. Visualizzazione Eventi
+## Descrizione del Problema
+Una panoramica sul problema che l'app "Disco Connect" cerca di risolvere, inclusi gli aspetti principali come aggiornamenti sugli eventi, prenotazione di tavoli VIP e altro.
 
-Attori coinvolti: Utente
-Descrizione: Gli utenti possono visualizzare gli eventi in corso e futuri nei locali notturni, filtrare gli eventi per criteri come data, genere musicale, posizione geografica, ecc., e visualizzare i dettagli degli eventi.
+## Obiettivi dell App
+Obiettivi chiave dell'app "Disco Connect" e come intende soddisfare le esigenze degli utenti e dei locali notturni.
 
-2. Prenotazione Tavoli VIP
+## Funzionalità del Sistema
+Una panoramica delle funzionalità principali dell'app, tra cui la visualizzazione degli eventi, la prenotazione dei tavoli VIP, la gestione del profilo utente e altre.
 
-Attori coinvolti: Utente, Nightclub
-Descrizione: Gli utenti possono prenotare tavoli VIP in vari locali notturni, selezionando opzioni come data, orario, numero di persone, e procedendo con il pagamento sicuro per la prenotazione.
+#### Visualizzazione Eventi
+ • Attori coinvolti: Utente
+ • Descrizione: Gli utenti possono visualizzare gli eventi in corso e futuri nei locali notturni, filtrare gli eventi per criteri come data, genere musicale, posizione geografica, ecc., e visualizzare i dettagli degli eventi.
 
-3. Gestione Profilo Utente
+#### Prenotazione Tavoli VIP
+ • Attori coinvolti: Utente, Nightclub
+ • Descrizione: Gli utenti possono prenotare tavoli VIP in vari locali notturni, selezionando opzioni come data, orario, numero di persone, e procedendo con il pagamento sicuro per la prenotazione.
 
-Attori coinvolti: Utente
-Descrizione: Gli utenti possono creare e gestire il proprio profilo utente, inclusi dettagli personali, preferenze musicali, località preferita, e visualizzare lo storico delle prenotazioni e dei premi vinti.
+#### Gestione Profilo Utente
+ • Attori coinvolti: Utente
+ • Descrizione: Gli utenti possono creare e gestire il proprio profilo utente, inclusi dettagli personali, preferenze musicali, località preferita, e visualizzare lo storico delle prenotazioni e dei premi vinti.
 
-4. Scoperta Discoteche
+#### Scoperta Discoteche
+ • Attori coinvolti: Utente
+ • Descrizione: Gli utenti possono cercare e visualizzare le discoteche più popolari, leggere recensioni e valutazioni degli utenti e ricevere raccomandazioni personalizzate in base alle loro preferenze musicali e località.
 
-Attori coinvolti: Utente
-Descrizione: Gli utenti possono cercare e visualizzare le discoteche più popolari, leggere recensioni e valutazioni degli utenti e ricevere raccomandazioni personalizzate in base alle loro preferenze musicali e località.
+#### Partecipazione a Giochi
+• Attori coinvolti: Utente
+ • Descrizione: Gli utenti possono partecipare a giochi o attività all'interno dell'app per avere la possibilità di vincere premi consumabili. Possono visualizzare i premi disponibili e il loro storico dei premi vinti e utilizzati.
 
-5. Partecipazione a Giochi
+#### Amministrazione Locale Notturno
+ • Attori coinvolti: Promoter, Nightclub
+ • Descrizione: I promoter e i locali notturni possono gestire le informazioni sui propri eventi, tavoli VIP, e altre attività legate all'app. Possono anche gestire i contratti e le collaborazioni con Disco Connect.
 
-Attori coinvolti: Utente
-Descrizione: Gli utenti possono partecipare a giochi o attività all'interno dell'app per avere la possibilità di vincere premi consumabili. Possono visualizzare i premi disponibili e il loro storico dei premi vinti e utilizzati.
+#### Amministrazione Eventi
+ • Attori coinvolti: Nightclub
+ • Descrizione: I locali notturni possono aggiungere, modificare o eliminare eventi dal sistema, specificando dettagli come orari, artisti, e informazioni sul luogo.
 
-6. Amministrazione Locale Notturno
+#### Amministrazione Tavoli VIP
+ • Attori coinvolti: Nightclub
+ • Descrizione: I locali notturni possono gestire la disponibilità e le prenotazioni dei tavoli VIP, confermare prenotazioni, e definire le opzioni di prenotazione.
 
-Attori coinvolti: Promoter, Nightclub
-Descrizione: I promoter e i locali notturni possono gestire le informazioni sui propri eventi, tavoli VIP, e altre attività legate all'app. Possono anche gestire i contratti e le collaborazioni con Disco Connect.
+#### Amministrazione Premi Consumabili
+ • Attori coinvolti: Nightclub
+ • Descrizione: I locali notturni possono gestire i premi consumabili offerti nell'app, specificando premi disponibili, punti necessari per il riscatto, e tenendo traccia del riscatto dei premi.
 
-7. Amministrazione Eventi
+## Caso d'Uso Non Funzionale: Rispetto delle Norme GDPR
 
-Attori coinvolti: Nightclub
-Descrizione: I locali notturni possono aggiungere, modificare o eliminare eventi dal sistema, specificando dettagli come orari, artisti, e informazioni sul luogo.
-Amministrazione Tavoli VIP
+ - Attori: Sistemi dell'app, Utenti, Autorità di Regolamentazione
+ - Descrizione: Garantire il rispetto delle norme GDPR per proteggere i dati personali degli utenti e conformarsi alle leggi sulla privacy.
+ - Flusso Principale:
+    - L'app raccoglie e memorizza i dati personali degli utenti solo previa autorizzazione e per scopi specifici (consenso informato).
+    - L'app fornisce agli utenti l'opzione di revocare il consenso e richiedere la cancellazione dei propri dati personali.
+    - L'app implementa misure di sicurezza per proteggere i dati personali da accessi non autorizzati.
+    - L'app consente agli utenti di visualizzare, modificare e scaricare i propri dati personali.
+    - L'app notifica gli utenti in caso di violazioni dei dati, conformemente alle leggi vigenti.
+    - L'app rispetta le leggi regionali e le richieste delle autorità di regolamentazione in merito alla gestione dei dati personali.
+ - Requisiti Non Funzionali:
+ - Sicurezza dei dati
+ - Privacy dei dati
+ - Consenso informato
+ - Diritto all'oblio (cancellazione dei dati)
+ - Notifiche di violazioni dei dati
+ - Conformità alle leggi regionali sulla protezione dei dati
 
-8. Attori coinvolti: Nightclub
 
-Descrizione: I locali notturni possono gestire la disponibilità e le prenotazioni dei tavoli VIP, confermare prenotazioni, e definire le opzioni di prenotazione.
-Amministrazione Premi Consumabili
-Attori coinvolti: Nightclub
-Descrizione: I locali notturni possono gestire i premi consumabili offerti nell'app, specificando premi disponibili, punti necessari per il riscatto, e tenendo traccia del riscatto dei premi.
