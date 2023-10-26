@@ -26,7 +26,7 @@ Descrizione: Gli utenti possono visualizzare gli eventi in corso e futuri nei lo
 Attori coinvolti: Utente, Nightclub
 Descrizione: Gli utenti possono prenotare tavoli VIP in vari locali notturni, selezionando opzioni come data, orario, numero di persone, e procedendo con il pagamento sicuro per la prenotazione.
 
-3.Gestione Profilo Utente
+3. Gestione Profilo Utente
 
 Attori coinvolti: Utente
 Descrizione: Gli utenti possono creare e gestire il proprio profilo utente, inclusi dettagli personali, preferenze musicali, località preferita, e visualizzare lo storico delle prenotazioni e dei premi vinti.
@@ -46,7 +46,7 @@ Descrizione: Gli utenti possono partecipare a giochi o attività all'interno del
 Attori coinvolti: Promoter, Nightclub
 Descrizione: I promoter e i locali notturni possono gestire le informazioni sui propri eventi, tavoli VIP, e altre attività legate all'app. Possono anche gestire i contratti e le collaborazioni con Disco Connect.
 
-7.Amministrazione Eventi
+7. Amministrazione Eventi
 
 Attori coinvolti: Nightclub
 Descrizione: I locali notturni possono aggiungere, modificare o eliminare eventi dal sistema, specificando dettagli come orari, artisti, e informazioni sul luogo.
