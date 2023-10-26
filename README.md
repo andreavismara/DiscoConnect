@@ -54,7 +54,7 @@ Una panoramica delle funzionalità principali dell'app, tra cui la visualizzazio
  • Descrizione: Gli utenti possono cercare e visualizzare le discoteche più popolari, leggere recensioni e valutazioni degli utenti e ricevere raccomandazioni personalizzate in base alle loro preferenze musicali e località.
 
 #### Partecipazione a Giochi
-• Attori coinvolti: Utente
+• Attori coinvolti: Utente<br>
  • Descrizione: Gli utenti possono partecipare a giochi o attività all'interno dell'app per avere la possibilità di vincere premi consumabili. Possono visualizzare i premi disponibili e il loro storico dei premi vinti e utilizzati.
 
 #### Amministrazione Locale Notturno
