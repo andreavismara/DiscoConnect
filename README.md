@@ -95,4 +95,82 @@ Una panoramica delle funzionalità principali dell'app, tra cui la visualizzazio
  - Notifiche di violazioni dei dati
  - Conformità alle leggi regionali sulla protezione dei dati
 
+ - # Work Breakdown Structure (WBS) - Disco Connect
+
+## 1. Pianificazione e Avvio del Progetto
+   - 1.1 Definizione degli Obiettivi e dei Requisiti
+   - 1.2 Analisi del Contesto del Mercato
+   - 1.3 Studio di Fattibilità
+   - 1.4 Creazione del Business Case
+   - 1.5 Costi e Budget Preliminari
+
+## 2. Analisi e Progettazione
+   - 2.1 Raccolta Dettagliata dei Requisiti
+   - 2.2 Progettazione dell'Architettura del Sistema
+     - 2.2.1 Creazione di Diagrammi UML Dettagliati
+     - 2.2.2 Definizione del Modello dei Dati
+   - 2.3 Progettazione dell'Interfaccia Utente (UI/UX)
+   - 2.4 Definizione dei Casi d'Uso e Scenari
+
+## 3. Sviluppo dell'Applicazione
+   - 3.1 Sviluppo del Frontend
+     - 3.1.1 Implementazione dell'Interfaccia Utente
+     - 3.1.2 Integrazione con Servizi Esterni (mappe, pagamento)
+   - 3.2 Sviluppo del Backend
+     - 3.2.1 Implementazione della Logica di Business
+     - 3.2.2 Gestione degli Utenti e dei Profili
+   - 3.3 Implementazione delle Funzionalità Principali
+     - 3.3.1 Visualizzazione Eventi
+     - 3.3.2 Prenotazione Tavoli VIP
+     - 3.3.3 Scoperta Discoteche
+     - 3.3.4 Partecipazione a Giochi
+     - 3.3.5 Gestione Profilo Utente
+
+## 4. Integrazione e Test
+   - 4.1 Test del Frontend
+   - 4.2 Test del Backend
+   - 4.3 Integrazione dei Moduli
+   - 4.4 Test dell'Intero Sistema
+   - 4.5 Ottimizzazione delle Prestazioni
+
+## 5. Sicurezza e Conformità
+   - 5.1 Implementazione delle Misure di Sicurezza
+   - 5.2 Rispetto delle Norme GDPR e Altre Normative
+   - 5.3 Test di Sicurezza
+
+## 6. Implementazione delle Funzionalità Amministrative
+   - 6.1 Amministrazione Locale Notturno
+   - 6.2 Amministrazione Eventi
+   - 6.3 Amministrazione Tavoli VIP
+   - 6.4 Amministrazione Premi Consumabili
+
+## 7. Collaborazioni e Contratti
+   - 7.1 Creazione di Contratti con i Nightclub
+   - 7.2 Collaborazioni con i Promoter
+   - 7.3 Definizione dei Termini Contrattuali
+
+## 8. Controllo di Qualità e Revisione
+   - 8.1 Revisione del Codice
+   - 8.2 Test di Accettazione Utente
+   - 8.3 Valutazione della Qualità complessiva
+   - 8.4 Gestione dei Bug e dei Cambiamenti
+
+## 9. Distribuzione e Lancio
+   - 9.1 Preparazione per il Lancio
+   - 9.2 Distribuzione dell'App
+   - 9.3 Lancio Ufficiale
+   - 9.4 Monitoraggio dei Risultati Post-Lancio
+
+## 10. Formazione e Supporto Post-Lancio
+   - 10.1 Formazione del Personale Coinvolto
+   - 10.2 Supporto Utenti Post-Lancio
+   - 10.3 Raccolta e Analisi dei Feedback degli Utenti
+
+## 11. Gestione del Progetto
+   - 11.1 Monitoraggio Avanzamento
+   - 11.2 Risoluzione dei Problemi
+   - 11.3 Reportistica e Documentazione
+   - 11.4 Chiusura del Progetto
+
+
 
