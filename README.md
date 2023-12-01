@@ -76,7 +76,7 @@ Una panoramica delle funzionalità principali dell'app, tra cui la visualizzazio
 ### Diagramma dei casi d'uso
 ![Diagramma](https://yuml.me/diagram/scruffy/usecase/[Utente]-(Visualizzazione%20Eventi),%20[Utente]-(Prenotazione%20Tavoli%20VIP),%20[Utente]-(Gestione%20Profilo%20Utente),%20[Utente]-(Scoperta%20Discoteche),%20[Utente]-(Partecipazione%20a%20Giochi),%20[Promoter]-(Amministrazione%20Locale%20Notturno),%20[Nightclub]-(Amministrazione%20Locale%20Notturno),%20[Nightclub]-(Amministrazione%20Eventi),%20[Nightclub]-(Amministrazione%20Tavoli%20VIP),%20[Nightclub]-(Amministrazione%20Premi%20Consumabili),)
 
-## Caso d'Uso Non Funzionale: Rispetto delle Norme GDPR
+## Requisiti non Funzionali: Rispetto delle Norme GDPR
 
  - Attori: Sistemi dell'app, Utenti, Autorità di Regolamentazione
  - Descrizione: Garantire il rispetto delle norme GDPR per proteggere i dati personali degli utenti e conformarsi alle leggi sulla privacy.
