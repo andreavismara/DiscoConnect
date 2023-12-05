@@ -172,44 +172,90 @@ Una panoramica delle funzionalità principali dell'app, tra cui la visualizzazio
    - 11.3 Reportistica e Documentazione
    - 11.4 Chiusura del Progetto
 
-1. **Visualizzazione Eventi:**
-   - Come utente, voglio poter visualizzare gli eventi in corso e futuri nei locali notturni della mia zona, filtrati per data, genere musicale e posizione geografica, così da essere sempre aggiornato sulle opzioni disponibili.
-   <!-- Stima: 15 ore -->
+Certamente, ecco le stime delle ore inserite in un menu a tendina per tutte le user stories:
 
-2. **Prenotazione Tavoli VIP:**
-   - Come utente, desidero poter prenotare un tavolo VIP in vari locali notturni, selezionando opzioni come la data, l'orario e il numero di persone, e completare il processo di prenotazione in modo sicuro e conveniente.
-   <!-- Stima: 20 ore -->
+```markdown
+<details>
+  <summary><strong>1. Visualizzazione Eventi:</strong></summary>
+  <p>
+    Come utente, voglio poter visualizzare gli eventi in corso e futuri nei locali notturni della mia zona, filtrati per data, genere musicale e posizione geografica, così da essere sempre aggiornato sulle opzioni disponibili.<br>
+    <strong>Stima: 15 ore</strong>
+  </p>
+</details>
 
-3. **Scoperta delle Discoteche:**
-   - Come utente, vorrei scoprire nuove discoteche e luoghi popolari basati sui miei gusti musicali e preferenze di località, con recensioni e valutazioni dagli altri utenti per guidare le mie decisioni.
-   <!-- Stima: 18 ore -->
+<details>
+  <summary><strong>2. Prenotazione Tavoli VIP:</strong></summary>
+  <p>
+    Come utente, desidero poter prenotare un tavolo VIP in vari locali notturni, selezionando opzioni come la data, l'orario e il numero di persone, e completare il processo di prenotazione in modo sicuro e conveniente.<br>
+    <strong>Stima: 20 ore</strong>
+  </p>
+</details>
 
-4. **Vinci Premi Consumabili:**
-   - Come utente, desidero partecipare a giochi o attività all'interno dell'app per avere la possibilità di vincere premi consumabili utilizzabili nei locali notturni.
-   <!-- Stima: 25 ore -->
+<details>
+  <summary><strong>3. Scoperta delle Discoteche:</strong></summary>
+  <p>
+    Come utente, vorrei scoprire nuove discoteche e luoghi popolari basati sui miei gusti musicali e preferenze di località, con recensioni e valutazioni dagli altri utenti per guidare le mie decisioni.<br>
+    <strong>Stima: 18 ore</strong>
+  </p>
+</details>
 
-5. **Gestione Profilo Utente:**
-   - Come utente, voglio creare e gestire il mio profilo utente, includendo dettagli personali, preferenze musicali, e visualizzare uno storico delle prenotazioni e dei premi vinti.
-   <!-- Stima: 22 ore -->
+<details>
+  <summary><strong>4. Vinci Premi Consumabili:</strong></summary>
+  <p>
+    Come utente, desidero partecipare a giochi o attività all'interno dell'app per avere la possibilità di vincere premi consumabili utilizzabili nei locali notturni.<br>
+    <strong>Stima: 25 ore</strong>
+  </p>
+</details>
 
-6. **Amministrazione Locale Notturno:**
-   - Come promoter di un locale notturno, voglio essere in grado di amministrare le informazioni sui miei eventi, tavoli VIP e altre attività legate all'app, mantenendo il controllo sulle collaborazioni con Disco Connect.
-   <!-- Stima: 30 ore -->
+<details>
+  <summary><strong>5. Gestione Profilo Utente:</strong></summary>
+  <p>
+    Come utente, voglio creare e gestire il mio profilo utente, includendo dettagli personali, preferenze musicali, e visualizzare uno storico delle prenotazioni e dei premi vinti.<br>
+    <strong>Stima: 22 ore</strong>
+  </p>
+</details>
 
-7. **Amministrazione Eventi:**
-   - Come locale notturno, voglio aggiungere, modificare o eliminare eventi dal sistema, specificando dettagli come orari, artisti e informazioni sul luogo, per mantenere aggiornati gli utenti sulla mia offerta.
-   <!-- Stima: 28 ore -->
+<details>
+  <summary><strong>6. Amministrazione Locale Notturno:</strong></summary>
+  <p>
+    Come promoter di un locale notturno, voglio essere in grado di amministrare le informazioni sui miei eventi, tavoli VIP e altre attività legate all'app, mantenendo il controllo sulle collaborazioni con Disco Connect.<br>
+    <strong>Stima: 30 ore</strong>
+  </p>
+</details>
 
-8. **Amministrazione Tavoli VIP:**
-   - Come locale notturno, voglio gestire la disponibilità e le prenotazioni dei tavoli VIP, confermare prenotazioni e definire le opzioni di prenotazione per offrire un'esperienza personalizzata ai clienti.
-   <!-- Stima: 25 ore -->
+<details>
+  <summary><strong>7. Amministrazione Eventi:</strong></summary>
+  <p>
+    Come locale notturno, voglio aggiungere, modificare o eliminare eventi dal sistema, specificando dettagli come orari, artisti e informazioni sul luogo, per mantenere aggiornati gli utenti sulla mia offerta.<br>
+    <strong>Stima: 28 ore</strong>
+  </p>
+</details>
 
-9. **Amministrazione Premi Consumabili:**
-   - Come locale notturno, desidero gestire i premi consumabili offerti nell'app, specificando i premi disponibili, i punti necessari per il riscatto e tenendo traccia dei premi riscattati dai clienti.
-   <!-- Stima: 20 ore -->
+<details>
+  <summary><strong>8. Amministrazione Tavoli VIP:</strong></summary>
+  <p>
+    Come locale notturno, voglio gestire la disponibilità e le prenotazioni dei tavoli VIP, confermare prenotazioni e definire le opzioni di prenotazione per offrire un'esperienza personalizzata ai clienti.<br>
+    <strong>Stima: 25 ore</strong>
+  </p>
+</details>
 
-10. **Collaborazioni e Contratti:**
-    - Come promoter, voglio poter creare contratti con i locali notturni in base all'affluenza di persone, posizione geografica e ai pagamenti per evitare situazioni di conflitto tra Disco Connect e i locali.
-    <!-- Stima: 15 ore -->
+<details>
+  <summary><strong>9. Amministrazione Premi Consumabili:</strong></summary>
+  <p>
+    Come locale notturno, desidero gestire i premi consumabili offerti nell'app, specificando i premi disponibili, i punti necessari per il riscatto e tenendo traccia dei premi riscattati dai clienti.<br>
+    <strong>Stima: 20 ore</strong>
+  </p>
+</details>
+
+<details>
+  <summary><strong>10. Collaborazioni e Contratti:</strong></summary>
+  <p>
+    Come promoter, voglio poter creare contratti con i locali notturni in base all'affluenza di persone, posizione geografica e ai pagamenti per evitare situazioni di conflitto tra Disco Connect e i locali.<br>
+    <strong>Stima: 15 ore</strong>
+  </p>
+</details>
+```
+
+
 
 
