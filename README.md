@@ -14,17 +14,9 @@ Analisi del Problema "Disco Connect" è un'app progettata per coloro che amano l
 2. [Descrizione del Problema](#descrizione-del-problema)
 3. [Obiettivi dell'App](#obiettivi-dell-app)
 4. [Funzionalità del Sistema](#funzionalità-del-sistema)
-   - [Visualizzazione Eventi](#visualizzazione-eventi)
-   - [Prenotazione Tavoli VIP](#prenotazione-tavoli-vip)
-   - [Gestione Profilo Utente](#gestione-profilo-utente)
-   - [Scoperta Discoteche](#scoperta-discoteche)
-   - [Partecipazione a Giochi](#partecipazione-a-giochi)
-   - [Amministrazione Locale Notturno](#amministrazione-locale-notturno)
-   - [Amministrazione Eventi](#amministrazione-eventi)
-   - [Amministrazione Tavoli VIP](#amministrazione-tavoli-vip)
-   - [Amministrazione Premi Consumabili](#amministrazione-premi-consumabili)
 5. [Requisiti non Funzionali: Rispetto delle Norme GDPR](#requisiti-non-funzionali-rispetto-delle-norme-gdpr)
 6. [Work Breakdown Structure (WBS) - Disco Connect](#work-breakdown-structure-wbs-disco-connect)
+7. [User Stories](#user-stories)
 
 ## Introduzione
 In questa documentazione, verrà descritta l'app "Disco Connect," un'applicazione progettata per gli amanti della vita notturna. L'app offre una serie di funzionalità per gli utenti e i locali notturni.
