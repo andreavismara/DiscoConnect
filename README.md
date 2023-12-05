@@ -24,6 +24,7 @@ Analisi del Problema "Disco Connect" è un'app progettata per coloro che amano l
    - [Amministrazione Tavoli VIP](#amministrazione-tavoli-vip)
    - [Amministrazione Premi Consumabili](#amministrazione-premi-consumabili)
 5. [Requisiti non Funzionali: Rispetto delle Norme GDPR](#requisiti-non-funzionali-rispetto-delle-norme-gdpr)
+6. [Work Breakdown Structure (WBS) - Disco Connect](#work-breakdown-structure-wbs-disco-connect)
 
 ## Introduzione
 In questa documentazione, verrà descritta l'app "Disco Connect," un'applicazione progettata per gli amanti della vita notturna. L'app offre una serie di funzionalità per gli utenti e i locali notturni.
@@ -95,7 +96,7 @@ Una panoramica delle funzionalità principali dell'app, tra cui la visualizzazio
  - Notifiche di violazioni dei dati
  - Conformità alle leggi regionali sulla protezione dei dati
 
-# Work Breakdown Structure (WBS) - Disco Connect
+# Work Breakdown Structure (WBS) Disco Connect
 
 ## 1. Pianificazione e Avvio del Progetto
    - 1.1 Definizione degli Obiettivi e dei Requisiti
