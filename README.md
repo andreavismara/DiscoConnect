@@ -23,7 +23,7 @@ Analisi del Problema "Disco Connect" è un'app progettata per coloro che amano l
    - [Amministrazione Eventi](#amministrazione-eventi)
    - [Amministrazione Tavoli VIP](#amministrazione-tavoli-vip)
    - [Amministrazione Premi Consumabili](#amministrazione-premi-consumabili)
-5. [Caso d'Uso Non Funzionale: Rispetto delle Norme GDPR](#caso-duso-non-funzionale-rispetto-delle-norme-gdpr)
+5. [Requisiti non Funzionali: Rispetto delle Norme GDPR](#requisiti-non-funzionali-rispetto-delle-norme-gdpr)
 
 ## Introduzione
 In questa documentazione, verrà descritta l'app "Disco Connect," un'applicazione progettata per gli amanti della vita notturna. L'app offre una serie di funzionalità per gli utenti e i locali notturni.
